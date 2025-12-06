@@ -1,28 +1,21 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/omarmassfih/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <img width="8" />
   <a href="https://www.omarmassfih.no/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=googlechrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website logo" />
+    <img src="https://img.shields.io/static/v1?message=Website&logo=googlechrome&label=&color=4285F4&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
-
-
-###
 
 ## Hi there 👋
 
 I am a software engineer at IBM building scalable platforms and event-driven services on **Linux** with **Java**, **Python**, **Kubernetes**, **OpenShift** and **Azure**.
 
 I design **agentic AI systems** using **LangChain** and **LangGraph** that interact with tools, make decisions and execute automated workflows in production.
-
 
 ### Core stack
 
