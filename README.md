@@ -1,11 +1,59 @@
 ## Hi there 👋
 
-I am a software engineer working with **Java**, **Python**, **Kubernetes**, **OpenShift**, and **Azure** to build scalable platforms and event-driven services on **Linux** environments.
+I am a software engineer at IBM who builds scalable platforms and event-driven services on **Linux** using **Java**, **Python**, **Kubernetes**, **OpenShift**, and **Azure**.  
+I also design **agentic AI systems** with **LangChain** and **LangGraph** that interact with tools, make decisions, and run automated workflows in production.
 
 ### Core stack
 
-Java • Python • Kubernetes • OpenShift • Azure • Linux • Kafka • FastAPI • Tekton
+#### Platforms & Cloud
+<div align="left">
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes" /></a>
+  <img width="12" />
+  <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank"><img src="https://img.icons8.com/fluent/1200/openshift.jpg" height="40" alt="openshift" /></a>
+  <img width="12" />
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure" /></a>
+  <img width="12" />
+  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" /></a>
+</div>
+
+#### Languages, APIs & Data
+<div align="left">
+  <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" /></a>
+  <img width="12" />
+  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" /></a>
+  <img width="12" />
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi" /></a>
+  <img width="12" />
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://images.icon-icons.com/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" height="40" alt="postgresql" /></a>
+  <img width="12" />
+  <a href="https://kafka.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="kafka" /></a>
+</div>
+
+#### DevOps & AI
+<div align="left">
+  <a href="https://tekton.dev/" target="_blank"><img src="https://avatars.githubusercontent.com/u/47602533?s=280&v=4" height="40" alt="tekton" /></a>
+  <img width="12" />
+  <a href="https://argo-cd.readthedocs.io/" target="_blank"><img src="https://logo.svgcdn.com/devicon/argocd-original-wordmark.png" height="40" alt="argocd" /></a>
+  <img width="12" />
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" height="40" alt="langchain" /></a>
+  <img width="12" />
+  <a href="https://www.langchain.com/langgraph" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/langgraph.png" height="40" alt="langgraph" /></a>
+</div>
 
 ### Certifications
 
-Azure DevOps Engineer Expert • Azure AI Engineer • Azure Developer Associate • Cosmos DB Developer • Fabric Data Engineer • Data Scientist Associate • Azure Fundamentals • Azure AI Fundamentals • Azure Data Fundamentals • Azure Security & Identity Fundamentals • Red Hat OpenShift Administrator • Red Hat OpenShift AI Specialist • Redhat Containers & OpenShift Application Developer
+![AZ-400](https://img.shields.io/badge/AZ--400_DevOps_Engineer_Expert-0078D4?logo=microsoftazure&logoColor=white)
+![AI-102](https://img.shields.io/badge/AI--102_AI_Engineer-0078D4?logo=microsoftazure&logoColor=white)
+![AZ-204](https://img.shields.io/badge/AZ--204_Developer_Associate-0078D4?logo=microsoftazure&logoColor=white)
+![DP-420](https://img.shields.io/badge/DP--420_Cosmos_DB_Developer-0078D4?logo=microsoftazure&logoColor=white)
+![DP-700](https://img.shields.io/badge/DP--700_Fabric_Data_Engineer-0078D4?logo=microsoftazure&logoColor=white)
+![DP-100](https://img.shields.io/badge/DP--100_Data_Scientist_Associate-0078D4?logo=microsoftazure&logoColor=white)
+![AZ-900](https://img.shields.io/badge/AZ--900_Azure_Fundamentals-0078D4?logo=microsoftazure&logoColor=white)
+![AI-900](https://img.shields.io/badge/AI--900_AI_Fundamentals-0078D4?logo=microsoftazure&logoColor=white)
+![DP-900](https://img.shields.io/badge/DP--900_Data_Fundamentals-0078D4?logo=microsoftazure&logoColor=white)
+![SC-900](https://img.shields.io/badge/SC--900_Security_and_Identity_Fundamentals-0078D4?logo=microsoftazure&logoColor=white)
+
+![OpenShift Administrator](https://img.shields.io/badge/OpenShift_Administrator-EE0000?logo=redhat&logoColor=white)
+![OpenShift Application Developer](https://img.shields.io/badge/OpenShift_Application_Developer-EE0000?logo=redhat&logoColor=white)
+![OpenShift AI Specialist](https://img.shields.io/badge/OpenShift_AI_Specialist-EE0000?logo=redhat&logoColor=white)
+![Containers Specialist](https://img.shields.io/badge/Containers_Specialist-EE0000?logo=redhat&logoColor=white)
