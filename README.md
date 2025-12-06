@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-I am a software engineer at IBM who builds scalable platforms and event-driven services on **Linux** using **Java**, **Python**, **Kubernetes**, **OpenShift**, and **Azure**.  
-I also design **agentic AI systems** with **LangChain** and **LangGraph** that interact with tools, make decisions, and run automated workflows in production.
+I am a software engineer at IBM building scalable platforms and event-driven services on **Linux** with **Java**, **Python**, **Kubernetes**, **OpenShift**, and **Azure**.
+
+I design **agentic AI systems** using **LangChain** and **LangGraph** that interact with tools, make decisions, and execute automated workflows in production.
+
 
 ### Core stack
 
