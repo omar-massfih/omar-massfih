@@ -10,7 +10,7 @@
 
 ## Hi there 👋
 
-I am a software engineer at IBM building scalable platforms and event-driven services on **Linux** using **Java**, **Kubernetes**, **OpenShift** and **Azure**.
+I am a software engineer at Bama building scalable platforms and event-driven services on **Linux** using **Java**, **Kubernetes**, **OpenShift** and **Azure**.
 
 I design **agentic AI systems** with **Python**, **LangChain** and **LangGraph** that interact with tools, make decisions and execute automated workflows in production.
 
