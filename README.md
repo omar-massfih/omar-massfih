@@ -40,7 +40,7 @@ The part I enjoy most is the platform underneath: how data moves, how services r
 
 **[omarmassfih.no](https://omarmassfih.no/)** — my projects, notes and CV, and a place to put the engineering into practice. Versioned notes become static pages through an Eleventy build and GitHub Actions; a FastAPI backend powers search and chat over those notes.
 
-[Read the case study](https://omarmassfih.no/projects/omarmassfih-no.html) · [Frontend source](https://github.com/omar-massfih/omarmassfih.no) · [Backend source](https://github.com/omar-massfih/omarmassfih.no-backend)
+[Frontend source](https://github.com/omar-massfih/omarmassfih.no) · [Backend source](https://github.com/omar-massfih/omarmassfih.no-backend)
 
 **[Engineering notes](https://omarmassfih.no/notes.html)** — I write about the questions behind the tools: safe retries, stale reads, failure detection, infrastructure state and retrieval-augmented generation. The notes span data engineering, distributed systems, platform engineering and AI.
 
